@@ -1,0 +1,1 @@
+{"$schema":"https://json.schemastore.org/claude-code-marketplace.json","name":"lhg-plugs","owner":{"name":"刘洪光"},"plugins":[{"description":"网文写作专家：题材到逐章连载的写作流水线（立意 / 大纲 / 人设 / 逐章 / 审计）","name":"lhg-fiction","source":"./"}]}
